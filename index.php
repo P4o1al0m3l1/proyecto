@@ -69,4 +69,29 @@ $animales3=[
 "dieta" => "carnivoro",
 "camada" => "4-6 crias",
 ];
+<?php
+$animales4=[
+"animal" => "mapache",
+"color" => "gris",
+"ojos" => "pequeños y negros",
+"nombre" => "procyon lotor",
+"habitat" => "bosques mixtos o caducifolios",
+"peso" => "15 kg",
+"dientes" => "40 dientes",
+"dieta" => "omnivora",
+"genero" => "mapache boreal",
+"esperanza de vida" => "12 años en estado salvaje-20 en cautiverio",
+"altura" => "40-70 cm",
+"sexo" => "macho",
+"subespecies" => "2",
+"cola" => "20-40 cm",
+"apareamiento" => "entre enero y febrero",
+"camada" => "4 cachorros",
+"patas" => "sensibles y agiles",
+"sentido del olfato" => "uno muy agudo",
+"comunicacion" => "con sus patas y dientes",
+"dedos" => "5 en cada pata",
+"clase" => "mammalia",
+];
+
 
