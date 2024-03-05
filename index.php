@@ -23,7 +23,7 @@ $animales=[
 "vista" => "panoramicos",
 ];
 
-<?php  
+  
 $animales2=[
 "animal" => "perro ", 
 "nombre del perro" => "muñeca"
@@ -46,3 +46,27 @@ $animales2=[
 " valor " => 3000
 "tipos de pit bull" => 4,
 ];
+
+$animales3=[
+"animal" => "gato",
+"nombre" => "keila",
+"color" => "capuchino",
+"raza" => "siames"
+"cola" => 1,
+"patas" => 4,
+"peso" => 15,
+"tamaño" => 50,
+"años" => 7,
+"color de ojos" => "azul",
+"tamaño de cola" => "20cm",
+"orejas" => "puntiagudas",
+"especie" => "felino",
+"genero" => "hembra",
+"olfato" => "agudo",
+"dedos" => 20,
+"dientes" => 30,
+"pelaje" => "grueso",
+"dieta" => "carnivoro",
+"camada" => "4-6 crias",
+];
+
